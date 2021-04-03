@@ -1,2 +1,4 @@
 added testing file
 file1.txt does not exist in gitlab. some changes are made in the development branch and commited.
+
+same file1.txt exist in the develpoment branch. some changes are made in the development branch not in file1.txt
